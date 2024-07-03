@@ -10,13 +10,20 @@ Implementação do Menu Interativo:
 Crie um menu interativo que permita ao usuário escolher entre as seguintes operações:
 
 Cadastrar usuário GRUPO 4 - Marcos, Vinicius L., Matheus
+
 Depositar GRUPO 4  - Marcos, Vinicius L., Matheus
+
 Sacar GRUPO 1 - Henrique, Vinícius R., Deiverson
+
 Transferir GRUPO 1  - Henrique, Vinícius, Deiverson
+
 Gerar extrato GRUPO 3 - Rafael, Angelo, Guilherme K.
+
 Editar usuário GRUPO 3 - Rafael, Angelo, Guilherme K
+
 Fechar Conta - GRUPO 2 - Vitor, Rodrigo, Victor, Guilheme B., Henrique
 - Função para excluir um usuário e sua conta do sistema.
+- 
 Consultar Saldo GRUPO 2 - Vitor, Rodrigo, Victor, Guilheme B., Henrique
 - Função para consultar o saldo de um usuário sem gerar o extrato completo.
 
